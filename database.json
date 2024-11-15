@@ -1,0 +1,54 @@
+{
+  "customer": [
+    {
+      "name": "Rashid",
+      "branch": "CSE",
+      "email": "rashid@gmail.com",
+      "phone": "91",
+      "smarks": "78",
+      "imarks": "88",
+      "address": "Bihar",
+      "id": "9699"
+    },
+    {
+      "name": "Alex Sam",
+      "branch": "AIML",
+      "email": "alex@gmail.com",
+      "phone": "91",
+      "smarks": "78",
+      "imarks": "88",
+      "address": "America",
+      "id": "9845"
+    },
+    {
+      "name": "Saad khan",
+      "branch": "CSE",
+      "email": "saad@gmail.com",
+      "phone": "91",
+      "smarks": "78",
+      "imarks": "88",
+      "address": "Nawada",
+      "id": "9655"
+    },
+    {
+      "name": "ABDULLAH MALLICK",
+      "branch": "EEE",
+      "email": "abdullahmallick@gmail.coom",
+      "phone": "09122861376",
+      "smarks": "98",
+      "imarks": "76",
+      "address": "RAYEES BIHAR",
+      "id": "d1af"
+    },
+    {
+      "id": "f1da",
+      "name": "Rashid Ansari",
+      "branch": "AIML",
+      "email": "mdrashid722060@gmail.com",
+      "phone": "09122861376",
+      "smarks": "98",
+      "imarks": "78",
+      "address": "Sector B Ayodhya Nagar"
+    }
+  ]
+}
